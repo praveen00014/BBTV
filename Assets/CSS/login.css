@@ -1,0 +1,63 @@
+.Logincard-component{
+    background-color: rgba(13,23,43,1);
+    padding: 100px 50px 50px 50px;
+    /* height: 100%; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.login-card{
+    margin: 100px 100px 100px 50px;
+    width: 35%;
+    height: 100%;
+    padding: 40px;
+    
+}
+
+.login-title{
+    font-size: 24px;
+    
+}
+
+.login-input{
+    border-color: #354b6a;
+    border-width: 5rem;
+}
+.submit-btn{
+    border-radius: 2rem;
+    width: 100px;
+    padding: 8px 3px 8px 3px;
+    background-color: #8a95e7;
+    border: none;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.forgot-password{
+    color: #8a95e7;
+    font-size: 20px;
+}
+
+.create-acc{
+display: flex;
+justify-content: center;
+margin: 50px 0px 0px 0px;
+font-size: 18px;
+}
+.new-acc{
+ color:#8a95e7;
+ margin: 0px 0px 0px 5px;
+
+}
+.img-section{
+    width: 40%;
+    margin: 0px 50px 0px 0px ;
+    
+}
+
+
+
+    
+                        
+
+

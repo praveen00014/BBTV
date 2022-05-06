@@ -1,0 +1,11 @@
+.back {
+    filter: blur(8px);
+}
+
+.spinnerloader {
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    background-color: transparent;
+}
